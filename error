@@ -1,0 +1,161 @@
+node wuWxapkg.js -d /d/pkg/nimingshuo.wxapkg
+Unpack file D:/pkg/nimingshuo.wxapkg...
+
+Header info:
+  firstMark: 0xbe
+  unknownInfo:  0
+  infoListLength:  2466
+  dataLength:  1412586
+  lastMark: 0xed
+
+File list info:
+  fileCount:  73
+{ name: '/imgs/brand-logo.png', off: 2480, size: 2464 }
+{ name: '/imgs/circle.gif', off: 4944, size: 482886 }
+{ name: '/imgs/emojis/1.png', off: 487830, size: 4635 }
+{ name: '/imgs/emojis/10.png', off: 492465, size: 3326 }
+{ name: '/imgs/emojis/11.png', off: 495791, size: 3441 }
+{ name: '/imgs/emojis/12.png', off: 499232, size: 3534 }
+{ name: '/imgs/emojis/13.png', off: 502766, size: 3871 }
+{ name: '/imgs/emojis/14.png', off: 506637, size: 4267 }
+{ name: '/imgs/emojis/15.png', off: 510904, size: 3825 }
+{ name: '/imgs/emojis/16.png', off: 514729, size: 4636 }
+{ name: '/imgs/emojis/17.png', off: 519365, size: 3931 }
+{ name: '/imgs/emojis/18.png', off: 523296, size: 3132 }
+{ name: '/imgs/emojis/19.png', off: 526428, size: 4378 }
+{ name: '/imgs/emojis/2.png', off: 530806, size: 5013 }
+{ name: '/imgs/emojis/20.png', off: 535819, size: 4495 }
+{ name: '/imgs/emojis/21.png', off: 540314, size: 4042 }
+{ name: '/imgs/emojis/22.png', off: 544356, size: 4872 }
+{ name: '/imgs/emojis/23.png', off: 549228, size: 4445 }
+{ name: '/imgs/emojis/24.png', off: 553673, size: 4096 }
+{ name: '/imgs/emojis/25.png', off: 557769, size: 4037 }
+{ name: '/imgs/emojis/26.png', off: 561806, size: 5325 }
+{ name: '/imgs/emojis/27.png', off: 567131, size: 4483 }
+{ name: '/imgs/emojis/28.png', off: 571614, size: 4399 }
+{ name: '/imgs/emojis/29.png', off: 576013, size: 5182 }
+{ name: '/imgs/emojis/3.png', off: 581195, size: 4639 }
+{ name: '/imgs/emojis/30.png', off: 585834, size: 4331 }
+{ name: '/imgs/emojis/31.png', off: 590165, size: 4038 }
+{ name: '/imgs/emojis/32.png', off: 594203, size: 4717 }
+{ name: '/imgs/emojis/33.png', off: 598920, size: 4434 }
+{ name: '/imgs/emojis/34.png', off: 603354, size: 4456 }
+{ name: '/imgs/emojis/35.png', off: 607810, size: 4457 }
+{ name: '/imgs/emojis/36.png', off: 612267, size: 4522 }
+{ name: '/imgs/emojis/37.png', off: 616789, size: 4979 }
+{ name: '/imgs/emojis/38.png', off: 621768, size: 4520 }
+{ name: '/imgs/emojis/39.png', off: 626288, size: 3830 }
+{ name: '/imgs/emojis/4.png', off: 630118, size: 3966 }
+{ name: '/imgs/emojis/40.png', off: 634084, size: 5256 }
+{ name: '/imgs/emojis/41.png', off: 639340, size: 4206 }
+{ name: '/imgs/emojis/42.png', off: 643546, size: 3821 }
+{ name: '/imgs/emojis/43.png', off: 647367, size: 4855 }
+{ name: '/imgs/emojis/44.png', off: 652222, size: 4238 }
+{ name: '/imgs/emojis/5.png', off: 656460, size: 4521 }
+{ name: '/imgs/emojis/6.png', off: 660981, size: 4036 }
+{ name: '/imgs/emojis/7.png', off: 665017, size: 4313 }
+{ name: '/imgs/emojis/8.png', off: 669330, size: 3824 }
+{ name: '/imgs/emojis/9.png', off: 673154, size: 3686 }
+{ name: '/imgs/logo-fan.png', off: 676840, size: 6260 }
+{ name: '/imgs/logo-rike.png', off: 683100, size: 16839 }
+{ name: '/imgs/logo-tidebreath.png', off: 699939, size: 10246 }
+{ name: '/imgs/logo-tidesleep.png', off: 710185, size: 8499 }
+{ name: '/imgs/logo-tidetime.png', off: 718684, size: 9968 }
+{ name: '/imgs/mina.png', off: 728652, size: 1654 }
+{ name: '/app-config.json', off: 730306, size: 2078 }
+{ name: '/app-service.js', off: 732384, size: 551045 }
+{ name: '/components/avatar/avatar.html',
+  off: 1283429,
+  size: 325 }
+{ name: '/components/barrage/barrage.html',
+  off: 1283754,
+  size: 329 }
+{ name: '/components/bg-avatar/bg-avatar.html',
+  off: 1284083,
+  size: 337 }
+{ name: '/components/bullet/bullet.html',
+  off: 1284420,
+  size: 325 }
+{ name: '/components/fake-chat/fake-chat.html',
+  off: 1284745,
+  size: 337 }
+{ name: '/components/login-dialog/login-dialog.html',
+  off: 1285082,
+  size: 349 }
+{ name: '/components/modal/modal.html', off: 1285431, size: 321 }
+{ name: '/components/painter/painter.html',
+  off: 1285752,
+  size: 329 }
+{ name: '/components/subscribe-btn/subscribe-btn.html',
+  off: 1286081,
+  size: 353 }
+{ name: '/components/timepicker/timepicker.html',
+  off: 1286434,
+  size: 341 }
+{ name: '/components/topbar/topbar.html',
+  off: 1286775,
+  size: 325 }
+{ name: '/pages/allow/allow.html', off: 1287100, size: 311 }
+{ name: '/pages/comments/comments.html',
+  off: 1287411,
+  size: 323 }
+{ name: '/pages/index/index.html', off: 1287734, size: 311 }
+{ name: '/pages/landing/landing.html', off: 1288045, size: 319 }
+{ name: '/pages/settings/settings.html',
+  off: 1288364,
+  size: 323 }
+{ name: '/pages/share/share.html', off: 1288687, size: 311 }
+{ name: '/pages/tell/tell.html', off: 1288998, size: 307 }
+{ name: '/page-frame.html', off: 1289305, size: 125761 }
+Saving files...
+Unpack done.
+Split app-service.js and make up configs & wxss & wxml & wxs...
+Decompile ./components/avatar/avatar.wxml...
+Decompile success!
+Decompile ./components/barrage/barrage.wxml...
+Decompile success!
+Decompile ./components/bg-avatar/bg-avatar.wxml...
+Decompile success!
+Decompile ./components/bullet/bullet.wxml...
+Decompile success!
+Decompile ./components/fake-chat/fake-chat.wxml...
+Decompile success!
+Decompile ./components/login-dialog/login-dialog.wxml...
+Decompile success!
+Decompile ./components/modal/modal.wxml...
+Decompile success!
+Decompile ./components/painter/painter.wxml...
+Decompile success!
+Decompile ./components/subscribe-btn/subscribe-btn.wxml...
+Decompile success!
+Decompile ./components/timepicker/timepicker.wxml...
+Decompile success!
+Decompile ./components/topbar/topbar.wxml...
+Decompile success!
+Decompile ./pages/allow/allow.wxml...
+Decompile success!
+Decompile ./pages/comments/comments.wxml...
+Decompile success!
+Decompile ./pages/index/index.wxml...
+Decompile success!
+Decompile ./pages/landing/landing.wxml...
+Decompile success!
+Decompile ./pages/settings/settings.wxml...
+Decompile success!
+Decompile ./pages/share/share.wxml...
+Decompile success!
+Decompile ./pages/tell/tell.wxml...
+Decompile success!
+
+C:\weapp\one\wxappUnpacker\node_modules\vm2\lib\main.js:214
+                        throw this._internal.Decontextify.value(e);
+                        ^
+SyntaxError: Unexpected token function
+    at VMScript.compile (C:\weapp\one\wxappUnpacker\node_modules\vm2\lib\main.js
+:80:20)
+    at VM.run (C:\weapp\one\wxappUnpacker\node_modules\vm2\lib\main.js:208:52)
+    at wu.get.code (C:\weapp\one\wxappUnpacker\wuJs.js:35:12)
+    at ioLimit.runWithCb (C:\weapp\one\wxappUnpacker\wuLib.js:95:14)
+    at agent (C:\weapp\one\wxappUnpacker\wuLib.js:64:23)
+    at tryToString (fs.js:456:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:443:12)
